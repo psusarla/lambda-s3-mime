@@ -1,4 +1,4 @@
-# lambda-s3-maven
+# lambda-s3-mime
 
 Functionality:
 When a new MIME file with attachments is uploaded to  ‘voicechecklist-process-emails’ bucket.
